@@ -10,3 +10,4 @@ Features:
 2. Add note along with setting yourself a reminder.
 3. Remove notes using their specific ID
 4. Auto-reordering of notes depening on their specific priority.
+5. MySQL Tables need only be created, all code can be used to migrate and create your own dataset.
